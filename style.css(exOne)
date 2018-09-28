@@ -1,0 +1,9 @@
+#firstHeader{
+  font-style: obique;
+  color: red;
+}
+
+.greenText{
+  color:green;
+  font-style: italic;
+}
