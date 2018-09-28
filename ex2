@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+		<!--The head contains all of the confirguration items for our page-->
+	 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>exTwo</title>
+
+		<link href="style2.css" type="text/css" rel="stylesheet" />
+</head>
+
+
+<body>
+		<!--The body contains all of the content for our page-->
+
+<ul class="greenText">list
+	<li class="listStyle">item1</li>
+	<li class="listStyle">item2</li>
+	<li class="listStyle">item3<li>
+	</ul>
+	</body>
+
+</html>
