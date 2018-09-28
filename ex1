@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+		<!--The head contains all of the confirguration items for our page-->
+	 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>exOne</title>
+<head>
+		<link href="style.css" type="text/css" rel="stylesheet" />
+		<h1 id="firstHeader"> some text </h1>
+</head>
+
+
+<body>
+		<!--The body contains all of the content for our page-->
+
+		<div>
+			<p class="greenText">This is some awesome text</p>
+			<p class="greenText"> This is some rad text</p>
+		</div>
+
+	</body>
+
+</html>
