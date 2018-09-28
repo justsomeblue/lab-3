@@ -1,0 +1,12 @@
+
+body{background-color: red}
+
+.greenText{
+  color:green;
+  font-style: italic;
+}
+
+.listStyle{
+  display: inline;
+  font-size: 30px;
+}
