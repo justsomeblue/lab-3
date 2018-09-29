@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+		<!--The head contains all of the confirguration items for our page-->
+	 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>exThree</title>
+
+		<link href="style3.css" type="text/css" rel="stylesheet" />
+</head>
+
+
+<body>
+<p class="fontStyle">look at this dog it is a good boy</p>
+ <img class="imgStyle" src="https://i.imgur.com/FTBSFo7.png"/>
+	</body>
+
+</html>
